@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=25D238&lines=%24+👋+Hello%2C+I'm+Mica%C3%ABl+from+Auditum;%24+Welcome+to+my+profile!;%24+Have+a+look+around!)](https://git.io/typing-svg)
+
 ```
 $ cat /proc/self/aboutme
               _                          
@@ -19,6 +21,8 @@ TECHNOS=(SQL, C#, React/Node.js, Shell)
 
 PGP=9F0D1D2AE7CE56AE
 ```
+
+![](https://komarev.com/ghpvc/?username=auditum-mpa)
 
 <!---
 auditum-mpa/auditum-mpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
