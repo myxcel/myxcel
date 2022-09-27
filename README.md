@@ -19,7 +19,7 @@ LOCATION=Bensberg, Germany
 TARGET=Writing good code, secure apps 🌱
 TECHNOS=(SQL, C#, React/Node.js, Shell)
 
-PGP=9F0D1D2AE7CE56AE
+PGP=(9F0D1D2AE7CE56AE, BF5F136A49595138)
 ```
 
 ![](https://komarev.com/ghpvc/?username=auditum-mpa)
