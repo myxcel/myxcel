@@ -10,8 +10,9 @@ __      _____| | ___ ___  _ __ ___   ___
 
 
 NAME=Micaël, MPA 👋
+ABOUT_ME=Code and crypto enthusiast
 
-POSITION=Senior software developer
+POSITION=Senior software developer, Java* code igniter
 NICKNAME=@auditum-mpa
 ORGANIZATION=@auditum
 LOCATION=Bensberg, Germany
@@ -19,7 +20,13 @@ LOCATION=Bensberg, Germany
 TARGET=Writing good code, secure apps 🌱
 TECHNOS=(SQL, C#, React/Node.js, Shell)
 
-PGP=(9F0D1D2AE7CE56AE, BF5F136A49595138)
+AUDITUM_PGP=(9F0D1D2AE7CE56AE, BF5F136A49595138)
+PRIVATE_PGP=A5A5CEFF7AAC40F4DC3FCBE19A8A905D3E01491C
+KEYBASE_PGP=AA7779036281D0E9209BE8B9262739EBA36CEB3E
+KEYBASE_HOME=keybase.io/espritlibredev
+
+OS=(Linux Ubuntu, Windows 11)
+
 ```
 
 ![](https://komarev.com/ghpvc/?username=auditum-mpa)
