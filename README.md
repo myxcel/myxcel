@@ -15,13 +15,13 @@ ABOUT_ME=Code and crypto enthusiast
 POSITION=Senior software developer, Java* code igniter
 NICKNAME=@auditum-mpa
 ORGANIZATION=@auditum
-LOCATION=Bensberg, Germany
+LOCATION=Bergisch Gladbach, Germany
 
-TARGET=Writing good code, secure apps 🌱
-TECHNOS=(SQL, C#, React/Node.js, Shell)
+TARGET=Writing good code, secure apps and have fun 🌱
+TECHNOS=(SQL, C#, Java, React/Node.js, Shell)
 
-AUDITUM_PGP=(9F0D1D2AE7CE56AE, BF5F136A49595138)
-PRIVATE_PGP=(9A8A905D3E01491C, 2EA0CCE628603945)
+AUDITUM_PGP=2E135BB70F3B3D1C3480A51DBF5F136A49595138
+PRIVATE_PGP=6f9f349cd9db0b1aa0ecb6de2ea0cce628603945
 KEYBASE_PGP=AA7779036281D0E9209BE8B9262739EBA36CEB3E
 KEYBASE_HOME=keybase.io/espritlibredev
 
