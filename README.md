@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=25D238&lines=%24+👋+Hello%2C+I'm+Mica%C3%ABl+from+Auditum;%24+Welcome+to+my+profile!;%24+Have+a+look+around!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=25D238&lines=%24+👋+Hello%2C+I'm+Mica%C3%ABl+from+Alteca;%24+Welcome+to+my+profile!;%24+Have+a+look+around!)](https://git.io/typing-svg)
 
 ```
 $ cat /proc/self/aboutme
@@ -9,25 +9,25 @@ __      _____| | ___ ___  _ __ ___   ___
   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|
 
 
-NAME=Micaël 👋
-ALIASES=(auditum-mpa, espritlibredev)
-ABOUT_ME=Code and crypto enthusiast, Java* code igniter
+NAME=Micaël Paganotto 👋
+ALIASES=(miopagano, espritlibre)
+ABOUT_ME=Code and crypto enthusiast, code igniter since 1998
 
-POSITION=Senior software developer
-NICKNAME=@auditum-mpa
-ORGANIZATION=@auditum
-LOCATION=Germany
+POSITION=Senior software developer, technical project manager
+NICKNAME=@miopagano
+ORGANIZATION=@alteca
+LOCATION=Strasbourg, France
 
 TARGET=Writing good code, secure apps and have fun 🌱
-TECHNOS=(SQL, C#, Java, React/Node.js, Shell)
+TECHNOS=(SQL, C#, Java, React/Node.js, Ruby, Clojure, Scala, Shell)
 
 OS=(Linux Ubuntu, Windows 11)
 
 ```
 
-![](https://komarev.com/ghpvc/?username=auditum-mpa)
+![](https://komarev.com/ghpvc/?username=miopagano)
 
 <!---
-auditum-mpa/auditum-mpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+miopagano/miopagano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
