@@ -9,14 +9,14 @@ __      _____| | ___ ___  _ __ ___   ___
   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|
 
 
-NAME=Micaël Paganotto 👋
+NAME=Micaël P. 👋
 ALIASES=(miopagano, espritlibre)
 ABOUT_ME=Code and crypto enthusiast, code igniter since 1998
 
 POSITION=Senior software developer, technical project manager
 NICKNAME=@miopagano
 ORGANIZATION=@alteca
-LOCATION=Strasbourg, France
+LOCATION=Strasbourg, Alsace
 
 TARGET=Writing good code, secure apps and have fun 🌱
 TECHNOS=(SQL, C#, Java, React/Node.js, Ruby, Clojure, Scala, Shell)
