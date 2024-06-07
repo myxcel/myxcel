@@ -10,11 +10,11 @@ __      _____| | ___ ___  _ __ ___   ___
 
 
 NAME=Micaël P. 👋
-ALIASES=(miopagano, espritlibre)
+ALIASES=(myxcel, espritlibre)
 ABOUT_ME=Code and crypto enthusiast, code igniter since 1998
 
 POSITION=Senior software developer, technical project manager
-NICKNAME=@miopagano
+NICKNAME=@myxcel
 ORGANIZATION=@alteca
 LOCATION=Strasbourg, Alsace
 
@@ -25,9 +25,9 @@ OS=(Linux Ubuntu, Windows 11)
 
 ```
 
-![](https://komarev.com/ghpvc/?username=miopagano)
+![](https://komarev.com/ghpvc/?username=myxcel)
 
 <!---
-miopagano/miopagano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+myxcel/myxcel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
