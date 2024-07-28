@@ -26,6 +26,8 @@ OS=(Linux Ubuntu, Windows 11)
 ```
 
 ![](https://komarev.com/ghpvc/?username=myxcel)
+<a href="https://liberapay.com/myxcel/donate"><img src="https://img.shields.io/liberapay/receives/myxcel.svg?logo=liberapay"></a>
+<a href="https://www.buymeacoffee.com/myxcel"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=myxcel&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" style="height: 20px;width: 100px;" /></a>
 
 <!---
 myxcel/myxcel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
